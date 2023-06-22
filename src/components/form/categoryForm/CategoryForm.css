@@ -1,0 +1,14 @@
+.catFormContainer{
+   margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    /* align-content: center;
+    justify-content: center; */
+}
+.errorText{
+    color: red;
+}
+.submit{
+    text-decoration: none;
+    color: white;
+}
